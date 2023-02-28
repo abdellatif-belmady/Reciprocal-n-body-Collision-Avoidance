@@ -134,6 +134,9 @@ extra:
     - icon: fontawesome/brands/instagram
       link: https://www.instagram.com/abdellatifbelmady/
      
+extra_css:
+  - stylesheets/extra.css
+
 # Page tree
 nav:
   - index.md
